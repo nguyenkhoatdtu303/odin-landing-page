@@ -12,7 +12,8 @@ h1, h2 ,h3 {
 .header-container,
 .information-container,
 .quote-container,
-.more-container {
+.more-container,
+.footer {
     display: flex;
     justify-content: center;
 }
@@ -150,4 +151,12 @@ h1, h2 ,h3 {
 .more .signup {
     border-color: white;
     border-style: solid;
+}
+
+.footer {
+    background-color: #1f2937;
+    padding: 30px;
+    font-size: 18px;
+    color: white;
+    align-items: center;
 }
