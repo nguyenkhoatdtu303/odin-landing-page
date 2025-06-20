@@ -111,5 +111,18 @@ h1, h2 ,h3 {
     background-color: #e5e7eb;
 }
 
+.quote { 
+    width: 900px;
+    padding: 80px 100px;
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+}
 
-
+.quote .author {
+    display: flex;
+    justify-content: flex-end;
+    padding: 0 30px;
+    font-size: 18px;
+    font-weight: 900px;
+}
