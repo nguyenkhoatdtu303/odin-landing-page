@@ -39,6 +39,7 @@ h1, h2 ,h3 {
 .nav-bar {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .nav-bar .links{
@@ -87,6 +88,10 @@ h1, h2 ,h3 {
     border-style: none;
 }
 
+.information-container .side {
+    justify-content: flex-end;
+}
+
 .information {
     display: flex;
     flex-direction: column;
@@ -104,6 +109,12 @@ h1, h2 ,h3 {
 .information .content {
     display: flex;
     gap: 40px;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .subject {
