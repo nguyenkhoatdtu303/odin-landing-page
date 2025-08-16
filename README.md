@@ -1,9 +1,7 @@
-# odin-landing-page
-In this project I will build a landing page with the provided layout
-
-I have to use tools that I have learnt to style my landing page
-
-The powerful I will use in this project is flexbox which allows me to position sections and parts in my page.
-
-I have used some gifs about black cat
-I download them for free on https://pixabay.com/ and the author is MissKaLem(https://pixabay.com/users/misskalem-39644033/).
+# The Odin Project's Project
+In this project, I have built a landing page with the provided layout. I created the layout for this webpage by using flexbox.
+# Skills Used
+HTML, CSS
+Flexbox: align items, justify contents, flex direction,...
+# Credit
+All the gifs about black cat by [MissKaLem](https://pixabay.com/users/misskalem-39644033/) are free on [Pixabay](https://pixabay.com/ )
