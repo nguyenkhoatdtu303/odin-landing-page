@@ -1,4 +1,4 @@
-# The Odin Project's Project
+# The Odin Project: Landing Page
 In this project, I have built a landing page with the provided layout. I created the layout for this webpage by using flexbox.
 # Skills Used
 HTML, CSS  
